@@ -8,6 +8,10 @@ The purpose of this project is to create a Tribute Page using HTML and CSS. This
   - There will be a main page talking about STEM and the Scientific Method in a general manner:
     - The main page will then contain a navigation menu which will allow the user to further explore other pages of the website
   - Other pages: (These pages will specify for each component of STEM):
+    - Main Page:
+      - The main page will set the theme for STEM, introducing the user to what it is
+      - Will contain a Carl Sagan quote from _Pale Blue Dot_, 1994
+      - Will allow the user to click on "Science", "Technology", "Engineering", and "Mathematics" and be taken to their own specific page
   
     - Science:
       - Will have one background image related to Science
