@@ -1,4 +1,4 @@
-# TributePage
+# TributeWebsite
 
 The purpose of this project is to create a Tribute Page using HTML and CSS. This Tirbute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest framework and best method for determining how our world works in the way that it does. 
 
