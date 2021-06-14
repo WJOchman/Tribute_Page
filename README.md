@@ -10,13 +10,39 @@ The purpose of this project is to create a Tribute Page using HTML and CSS. This
   - Other pages: (These pages will specify for each component of STEM):
   
     - Science:
+      - Will have one background image related to Science
+      - One heading "Science"
+      - Will give a brief history of Science
+      - Will describe the Scientific method
+      - Give examples of the some of the marvels that Science has provided humanity
+      - Examples of Scientist
+      - Ability to navigate between all pages, including the home page
       
     - Technology:
+      - Will have one background image related to Technology
+      - One heading "Technology"
+      - Will give a brief history of Technology
+      - Give examples of the some technological marvels
+      - Examples of Technology professionals
+      - Ability to navigate between all pages, including the home page
       
     - Engineering:
+      - Will have one background image related to Engineering
+      - One heading "Engineering"
+      - Will give a brief history of Engineering
+      - Give examples of the some engineering marvels
+      - Examples of Engineers
+      - Ability to navigate between all pages, including the home page
       
     - Mathematics:
-     
+      - Will have one background image related to Mathematics
+      - One heading "Mathematics"
+      - Will give a brief history of Mathematics
+      - Give examples of the some mathematical marvels
+      - Examples of Mathematicians
+      - Ability to navigate between all pages, including the home page
 
 <h3>CSS:</h3>
-  - 
+  - Each page will have a main background image which will not move as the user scrolls down or up to read the contents of the page
+  - Minimalist theme
+  - Centered text
