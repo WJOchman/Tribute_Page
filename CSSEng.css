@@ -4,4 +4,13 @@ h1 {
 
 p {
   text-align: justify;
+  
+}
+
+body {
+  background: url('./EngImg1.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
