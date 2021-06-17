@@ -5,3 +5,11 @@ h1 {
 p {
   text-align: justify;
 }
+
+body {
+  background: url('./MatImg1.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
