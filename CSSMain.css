@@ -50,7 +50,7 @@ div {
 }
 
 .BannerTitle {
-  background :url('./EngImg2.jpg');
+  background :url('./MainImg1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -58,7 +58,7 @@ div {
 }
 
 .MainText {
-  background :url('./MainImg1.jpg');
+  background :url('./EngImg3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
