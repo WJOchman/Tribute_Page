@@ -15,8 +15,8 @@ h1 {
 p {
   text-align: justify;
   font-size: 20px;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 100px;
+  padding-right: 100px;
   padding-bottom: 10px;
   color: white;
 }
@@ -35,7 +35,6 @@ ul li a {
 }
 
 body {
-  background: url('./MainImg1.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -52,6 +51,22 @@ div {
 
 .BannerTitle {
   background :url('./EngImg2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.MainText {
+  background :url('./MainImg1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.Nav {
+
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
