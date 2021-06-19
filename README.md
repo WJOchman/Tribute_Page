@@ -1,14 +1,30 @@
 # TributeWebsite
 
-The purpose of this project is to create a Tribute Page using HTML and CSS. This Tirbute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest framework and best method for determining how our world works in the way that it does. **This is an individual project.**
+The purpose of this project is to create a Tribute Page using HTML and CSS. This Tribute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest framework and best method for determining how our world works, which could be used to improve our quality of life. **This is an individual project.**
 
-  - There might be a chance of JavaScript being used for some basic interactivity, but that's something to think about later
+  - (There might be a chance of JavaScript being used for some basic interactivity, but that's something to think about later)
 
 <h3>HTML Structure:</h3>
   - There will be a main page talking about STEM and the Scientific Method in a general manner:
     - The main page will then contain a navigation menu which will allow the user to further explore other pages of the website
   - Other pages: (These pages will specify for each component of STEM):
+  - There will only be one page, this page will contain:
   
+    - The Title
+    - Navigation bar which will remain static as the user scrolls down the page.
+      - The navigation bar will also highlight at what section the user is
+      - The nvaigation bar will scroll down to the section which the user clicks on the read
+    - The main 'slide'
+    - Carl Sagan Quote
+    - Science
+      - And about Science, such as Biology, Chemistry, Physics and the Scientific Method
+    - Technology
+    - Engineering
+    - Mathematics
+
+
+ <h1>The following present some more details about what each 'slide' will contain:</h1>
+ 
     - Main Page:
       - The main page will set the theme for STEM, introducing the user to what it is
       - Will contain a Carl Sagan quote from _Pale Blue Dot_, 1994
