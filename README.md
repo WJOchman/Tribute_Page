@@ -64,6 +64,8 @@ The purpose of this project is to create a Tribute Page using HTML and CSS. This
       - Ability to navigate between all pages, including the home page
 
 <h3>CSS:</h3>
-  - Each page will have a main background image which will not move as the user scrolls down or up to read the contents of the page
+  - Each section will have a main background
   - Minimalist theme
   - Centered text
+  - Fixed Navigation bar which highlights at which section the user is at
+  
