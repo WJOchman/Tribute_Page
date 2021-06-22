@@ -13,7 +13,7 @@ The purpose of this project is to create a Tribute Page using HTML and CSS. This
     - The Title
     - Navigation bar which will remain static as the user scrolls down the page.
       - The navigation bar will also highlight at what section the user is
-      - The nvaigation bar will scroll down to the section which the user clicks on the read
+      - The navigation bar will scroll down to the section which the user clicks on the read
     - The main 'slide'
     - Carl Sagan Quote
     - Science
@@ -68,4 +68,3 @@ The purpose of this project is to create a Tribute Page using HTML and CSS. This
   - Minimalist theme
   - Centered text
   - Fixed Navigation bar which highlights at which section the user is at
-  
