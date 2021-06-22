@@ -1,6 +1,6 @@
 # TributeWebsite
 
-This is a Front-End portfolio project.
+This is a Front-End portfolio project which demonstrates a tribute page dedicated towards STEM and the Scientific Method.
 
 The purpose of this project is to create a Tribute Page using HTML and CSS. This Tribute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest framework and best method for determining how our world works, which could be used to improve our quality of life. **This is an individual project.**
 
