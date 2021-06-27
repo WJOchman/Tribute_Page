@@ -1,5 +1,7 @@
 # TributeWebsite
 
+(THIS NEEDS TO BE DONE BY THE END OF THE SUMMER HOLIDAYS, BEFORE THE START OF THE ACADEMIC YEAR 2021/2022)
+
 This is a Front-End portfolio project which demonstrates a tribute webpage dedicated towards STEM and the Scientific Method.
 
 The purpose of this project is to create a Tribute Page using HTML, CSS and JavaScript. This Tribute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest intellectual framework and best method for determining how our universe works, which could be used to improve our quality of life. **This is an individual project.**
