@@ -6,25 +6,17 @@ Responsive Web Design Project 1
 
 This is a Front-End portfolio project which demonstrates a tribute webpage dedicated towards STEM and the Scientific Method.
 
-The purpose of this project is to create a Tribute Page using HTML, CSS and JavaScript. This Tribute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest intellectual framework and best method for determining how our universe works, which could be used to improve our quality of life. **This is an individual project.**
+The purpose of this project is to create a Tribute Page using HTML, CSS and JavaScript. This Tribute Page will be about my love and respect for STEM and the Scientific Method. Why I believe it is the gratest intellectual framework and best method for determining how our universe works, which could be used to improve our quality of life. **This is an individual project.** 
 
 <h3>HTML Structure:</h3>
-  - There will be a main page talking about STEM and the Scientific Method in a general manner:
-    - The main page will then contain a navigation menu which will allow the user to further explore other pages of the website
-  - Other pages: (These pages will specify for each component of STEM):
-  - There will only be one page, this page will contain:
-  
-    - The Title
-    - Navigation bar which will remain static as the user scrolls down the page.
-      - The navigation bar will also highlight at what section the user is
-      - The navigation bar will scroll down to the section which the user clicks on the read
-    - The main 'slide'
-    - Carl Sagan Quote
-    - Science
-      - And about Science, such as Biology, Chemistry, Physics and the Scientific Method
-    - Technology
-    - Engineering
-    - Mathematics
+
+  - There will only be one page
+  - It will contain:
+    - Logo
+    - Navigation Menu -> Will the navigation bar scroll down with the user? Should there even be a navigation bar? Is it necessary for one page?
+    - Main Banner
+    - 4 smaller banners, each with a title for the respective letter from STEM
+    - When clicked on the title it will expand and provide more details regarding the topic
 
 
  <h1>The following present some more details about what each 'slide' will contain:</h1>
