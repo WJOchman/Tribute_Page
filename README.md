@@ -35,3 +35,7 @@ I have no rights over the images used in this project, they have been found via 
 However, this work has been an individual project and I can confirm that this work has not been copied.
 
 This project has been completed on the 3rd of September 2021. 
+
+## super-necessary-image
+
+![super-necessary](/TributePageShot.png)
