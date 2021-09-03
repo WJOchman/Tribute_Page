@@ -1,9 +1,32 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-p {
-  font-size: 25px;   /* supposed to be 25px */
+#main {
+    padding: 0px;    
+}
+
+/*--- Navigation ---*/
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #24252a;
+}
+
+#title {
+    color: white;
+}
+
+.navigation {
+    list-style: none;
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 0px 20px;
 }
