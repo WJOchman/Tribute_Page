@@ -40,4 +40,4 @@ This project has been completed on the 3rd of September 2021.
 
 ## Image of the Webpage
 
-![super-necessary](/TributePageShot.png)
+![TributePagePicture](/TributePageShot.png)
