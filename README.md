@@ -38,6 +38,6 @@ However, this work has been an individual project and I can confirm that this wo
 
 This project has been completed on the 3rd of September 2021. 
 
-## Image of the webpage
+## Image of the Webpage
 
 ![super-necessary](/TributePageShot.png)
