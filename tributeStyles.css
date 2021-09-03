@@ -8,25 +8,221 @@
     padding: 0px;    
 }
 
+section {
+    padding: 150px 100px 100px 100px;
+}
+
 /*--- Navigation ---*/
 
 header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 20px 10px;
     background-color: #24252a;
 }
 
-#title {
-    color: white;
+header #title {
+    color: white;   
 }
 
-.navigation {
+header #title h1 {
+    font-size: 40px;
+}
+
+header .navigation {
     list-style: none;
 }
 
-.navigation li {
+header .navigation li {
     display: inline-block;
     padding: 0px 20px;
 }
+
+header .navigation li a {
+    transition: all 0.3s ease 0s;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+header .navigation li a:hover {
+    color: #0088a9;
+}
+
+/*--- Introduction ---*/
+
+.introduction {
+    background-color: pink;
+    display: grid;
+}
+
+.introduction .AboutTitle {
+    padding: 10px;
+}
+
+.introduction .AboutTitle h1 {
+    background-color: green;
+    text-align: center;
+    font-size: 40px;
+}
+
+.introduction .AboutText {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 1em;
+    align-items: center;
+}
+
+.introduction .AboutText img {
+    width: 100%;
+}
+
+.introduction .AboutText p {
+    background-color: orange;
+    text-align: justify;
+}
+
+/*--- Science ---*/
+
+.science {
+    background-color: lightblue;
+    display: grid;
+}
+
+.science .ScienceTitle {
+    padding: 10px;
+}
+
+.science .ScienceTitle h1 {
+    background-color: lightcoral;
+    text-align: center;
+    font-size: 40px;
+}
+
+.science .ScienceText {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 1em;
+    align-items: center;
+}
+
+.science .ScienceText img {
+    width: 100%;
+}
+
+.science .ScienceText p {
+    background-color: lightgreen;
+    text-align: justify;
+}
+
+/*--- Technology ---*/
+
+.technology {
+    background-color: lightseagreen;
+    display: grid;
+}
+
+.technology .TechnologyTitle {
+    padding: 10px;
+}
+
+.technology .TechnologyTitle h1 {
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.technology .TechnologyText {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 1em;
+    align-items: center;
+}
+
+.technology .TechnologyText img {
+    width: 100%;
+}
+
+.technology .TechnologyText p {
+    background-color: lightyellow;
+    text-align: justify;
+}
+
+/*--- Engineering ---*/
+
+.engineering {
+    background-color: maroon;
+    display: grid;
+}
+
+.engineering .EngineeringTitle {
+    padding: 10px;
+}
+
+.engineering .EngineeringTitle h1 {
+    background-color: mediumaquamarine;
+    text-align: center;
+    font-size: 40px;
+}
+
+.engineering .EngineeringText {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 1em;
+    align-items: center;
+}
+
+.engineering .EngineeringText img {
+    width: 100%;
+}
+
+.engineering .EngineeringText p {
+    background-color: mediumslateblue;
+    text-align: justify;
+}
+
+/*--- Mathematics ---*/
+
+.mathematics {
+    background-color: moccasin;
+    display: grid;
+}
+
+.mathematics .MathematicsTitle {
+    padding: 10px;
+}
+
+.mathematics .MathematicsTitle h1 {
+    background-color: navy;
+    text-align: center;
+    font-size: 40px;
+}
+
+.mathematics .MathematicsText {
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 1em;
+    align-items: center;
+}
+
+.mathematics .MathematicsText img {
+    width: 100%;
+}
+
+.mathematics .MathematicsText p {
+    background-color: olivedrab;
+    text-align: justify;
+}
+
+/*--- Footer ---*/
