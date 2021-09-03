@@ -2,14 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-#main {
-    padding: 0px;    
+    font-family: "Poppins", sans-serif;
 }
 
 section {
-    padding: 150px 100px 100px 100px;
+    padding: 130px 100px 130px 100px;
 }
 
 /*--- Navigation ---*/
@@ -58,25 +55,25 @@ header .navigation li a:hover {
 /*--- Introduction ---*/
 
 .introduction {
-    background-color: pink;
+    background-color: #646568;
     display: grid;
 }
 
 .introduction .AboutTitle {
-    padding: 10px;
+    padding: 5px;
 }
 
 .introduction .AboutTitle h1 {
-    background-color: green;
     text-align: center;
-    font-size: 40px;
+    font-size: 5vw;
+    color: lightgray;
 }
 
 .introduction .AboutText {
     padding: 10px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-column-gap: 1em;
+    grid-column-gap: 1.5em;
     align-items: center;
 }
 
@@ -85,32 +82,33 @@ header .navigation li a:hover {
 }
 
 .introduction .AboutText p {
-    background-color: orange;
     text-align: justify;
+    font-size: 1.4vw;
+    color: lightgray;
 }
 
 /*--- Science ---*/
 
 .science {
-    background-color: lightblue;
+    background-color: #38393B;
     display: grid;
 }
 
 .science .ScienceTitle {
-    padding: 10px;
+    padding: 5px;
 }
 
 .science .ScienceTitle h1 {
-    background-color: lightcoral;
     text-align: center;
-    font-size: 40px;
+    font-size: 5vw;
+    color: lightgray;
 }
 
 .science .ScienceText {
     padding: 10px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-column-gap: 1em;
+    grid-column-gap: 1.5em;
     align-items: center;
 }
 
@@ -119,32 +117,33 @@ header .navigation li a:hover {
 }
 
 .science .ScienceText p {
-    background-color: lightgreen;
     text-align: justify;
+    font-size: 1.4vw;
+    color: lightgray;
 }
 
 /*--- Technology ---*/
 
 .technology {
-    background-color: lightseagreen;
+    background-color: #646568;
     display: grid;
 }
 
 .technology .TechnologyTitle {
-    padding: 10px;
+    padding: 5px;
 }
 
 .technology .TechnologyTitle h1 {
-    background-color: lightskyblue;
     text-align: center;
-    font-size: 40px;
+    font-size: 5vw;
+    color: lightgray;
 }
 
 .technology .TechnologyText {
     padding: 10px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-column-gap: 1em;
+    grid-column-gap: 1.5em;
     align-items: center;
 }
 
@@ -153,32 +152,33 @@ header .navigation li a:hover {
 }
 
 .technology .TechnologyText p {
-    background-color: lightyellow;
     text-align: justify;
+    font-size: 1.4vw;
+    color: lightgray;
 }
 
 /*--- Engineering ---*/
 
 .engineering {
-    background-color: maroon;
+    background-color: #38393B;
     display: grid;
 }
 
 .engineering .EngineeringTitle {
-    padding: 10px;
+    padding: 5px;
 }
 
 .engineering .EngineeringTitle h1 {
-    background-color: mediumaquamarine;
     text-align: center;
-    font-size: 40px;
+    font-size: 5vw;
+    color: lightgray;
 }
 
 .engineering .EngineeringText {
     padding: 10px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-column-gap: 1em;
+    grid-column-gap: 1.5em;
     align-items: center;
 }
 
@@ -187,32 +187,33 @@ header .navigation li a:hover {
 }
 
 .engineering .EngineeringText p {
-    background-color: mediumslateblue;
     text-align: justify;
+    font-size: 1.4vw;
+    color: lightgray;
 }
 
 /*--- Mathematics ---*/
 
 .mathematics {
-    background-color: moccasin;
+    background-color: #646568;
     display: grid;
 }
 
 .mathematics .MathematicsTitle {
-    padding: 10px;
+    padding: 5px;
 }
 
 .mathematics .MathematicsTitle h1 {
-    background-color: navy;
     text-align: center;
-    font-size: 40px;
+    font-size: 5vw;
+    color: lightgray;
 }
 
 .mathematics .MathematicsText {
     padding: 10px;
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-column-gap: 1em;
+    grid-column-gap: 1.5em;
     align-items: center;
 }
 
@@ -221,8 +222,48 @@ header .navigation li a:hover {
 }
 
 .mathematics .MathematicsText p {
-    background-color: olivedrab;
     text-align: justify;
+    font-size: 1.4vw;
+    color: lightgray;
 }
 
 /*--- Footer ---*/
+
+.footer {
+    background-color: #38393B;
+}
+
+.footer .FooterTitle {
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.footer .FooterTitle h2 {
+    text-align: center;
+    font-size: 2.5vw;
+    color: white;
+}
+
+.footer .FooterLinks {
+    text-align: center;
+    padding: 3vw;
+}
+
+.footer .FooterLinks a {
+    font-size: 3vw;
+    color: white;
+    display: inline-block;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+}
+
+/*--- Copyright ---*/
+
+.copyrightText {
+    background-color: #38393B;
+    padding: 8px 40px;
+    border-top: 1px solid #646568;;
+    text-align: center;
+    color: white;
+  }
