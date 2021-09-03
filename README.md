@@ -9,8 +9,7 @@ This website is a tribute page dedicated towards my love and respect for STEM (S
 The website is split into a total of 7 parts:
 1. Navigation Bar:
    - The Website has a fixed navigation bar, meaning that as the user scrolls throughout the website it remains in the same place at all times.
-   - 
-This is so that if the user wants to read only a specific part of the webpage, rather than scroll through the entire page, the user can simply click any of the categories presented in the navigation bar and the website will taken them straight to that desired section.
+   - This is so that if the user wants to read only a specific part of the webpage, rather than scroll through the entire page, the user can simply click any of the categories presented in the navigation bar and the website will taken them straight to that desired section.
 
 2. Introduction:
    - This section is the introduction of what the website is about. It is a very simple piece of text in horizontal alignment with a picture related to the topic of the section. 
