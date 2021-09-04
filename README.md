@@ -2,7 +2,7 @@
 
 This project is the first required project for the "Responsive Web Design" certification which is offered by freeCodeCamp.org.
 The purpose of this project is to build a tribute page using HTML and CSS techniques as learned throughout the course. 
-The requirements for this project can be read from the official freeCodeCamp website in the links below:
+The requirements for this project can be read from the official freeCodeCamp website in the link below:
 
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
