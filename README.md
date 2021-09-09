@@ -34,9 +34,7 @@ The website is split into a total of 7 parts:
 The styling of this website is also very basic, the color theme is a mixture of dark grays, alternating between lighter and darker gray for each section, with lightgray font color. The navigation bar has the darkest background color along with the lighters font color (white). The footer also contains the lighters font color (white).
 
 I have no rights over the images used in this project, they have been found via a Google Search.
-However, this work has been an individual project and I can confirm that this work has not been copied.
-
-This project has been completed on the 3rd of September 2021. 
+However, this work has been an individual project and I can confirm that this work has not been copied. This project has been completed on the 3rd of September 2021. 
 
 ## Image of the Webpage
 
