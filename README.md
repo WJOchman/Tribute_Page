@@ -1,4 +1,4 @@
-# Responsive Web Design Certification - Project 1 - Tribute Page
+<h1>Responsive Web Design Certification - Project 1 - Tribute Page</h1>
 
 This project is the first required project for the "Responsive Web Design" certification which is offered by freeCodeCamp.org.
 The purpose of this project is to build a tribute page using HTML and CSS techniques as learned throughout the course. 
